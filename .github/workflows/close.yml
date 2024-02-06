@@ -10,4 +10,4 @@ jobs:
     steps:
     - uses: superbrothers/close-pull-request@v3
       with:
-        comment: "This homwork does not accept PRs. You are required to send a patch over email. If you have any questions please contact your instructor"
+        comment: "This homework does not accept PRs. You are required to send a patch over email. If you have any questions please contact your instructor"
